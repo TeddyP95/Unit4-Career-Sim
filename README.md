@@ -126,7 +126,9 @@ To run the test suite:
 npm test
 ```
 
-## Contributing
+## Database schema
+<img width="1147" alt="Screenshot 2025-04-29 at 3 12 07 PM" src="https://github.com/user-attachments/assets/b7513852-a924-4b1b-b1a3-1a2f5d130f1e" />
+
 
 1. Fork the repository
 2. Create your feature branch
